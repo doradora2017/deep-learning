@@ -1,2 +1,3 @@
 # image-classification
-Udacity's deep learning project2 
+Udacity's deep learning project2 image classification
+Using tensorflow convolution neural network
